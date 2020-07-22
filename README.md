@@ -8,3 +8,8 @@ pypi address: https://test.pypi.org/project/zlf-resnext/0.0.2/#description
 `
 pip install -i https://test.pypi.org/simple/ zlf-resnext==0.0.2
 `
+
+
+## test example
+
+/tests/resnext_test.py
