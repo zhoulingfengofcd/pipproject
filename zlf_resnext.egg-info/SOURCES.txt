@@ -1,0 +1,8 @@
+README.md
+setup.py
+zlf_resnext/__init__.py
+zlf_resnext/resnext.py
+zlf_resnext.egg-info/PKG-INFO
+zlf_resnext.egg-info/SOURCES.txt
+zlf_resnext.egg-info/dependency_links.txt
+zlf_resnext.egg-info/top_level.txt
